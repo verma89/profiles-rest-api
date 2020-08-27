@@ -4,3 +4,4 @@ from profiles_api import models
 
 #registering UserProfile model to be viewed in admin profile
 admin.site.register(models.UserProfile)
+admin.site.register(models.ProfileFeedItem)
