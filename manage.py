@@ -18,4 +18,6 @@ def main():
 
 
 if __name__ == '__main__':
+    print("Added lines to create conflict 1")
+    print("Added lines to create conflict 2")
     main()
