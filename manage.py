@@ -18,4 +18,6 @@ def main():
 
 
 if __name__ == '__main__':
+    print("This is command line tool for administrative task")
+    print("This is another real work")
     main()
